@@ -5,6 +5,7 @@ Jose Rodriguez</a></h1>
 
 
 - 🌱 I’m currently Working on learning Python
+- 📫 How to reach me **jdrodrila06@gmail.com**
 
  
 <a target="_blank" align="center">
