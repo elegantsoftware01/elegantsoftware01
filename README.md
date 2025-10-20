@@ -4,7 +4,7 @@ Jose Rodriguez</a></h1>
 <h3 align="center">I'm a passionate learner, learning to code.!</h3>
 
 
-- 🌱 I’m currently Working on learning Python
+- 🌱 I’m currently Working on learning to code
 - 📫 How to reach me **jdrodrila06@gmail.com**
 
  
