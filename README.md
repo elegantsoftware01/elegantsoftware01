@@ -5,7 +5,7 @@ Jose Rodriguez</a></h1>
 
 - 🌱 I’m currently Working on learning to code
 - I’m learning **C**, **Python**, **web development** and much more.  
-🎯 My goal is to become a software developer.
+- 🎯 My goal is to become a software developer.
 - 📫 How to reach me **jdrodrila06@gmail.com**
 
  
