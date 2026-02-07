@@ -4,8 +4,7 @@ elegantsoftware</a></h1>
 <h3 align="center">I'm a passionate learner, learning to code.!</h3>
 
 - 🌱 I’m currently Working on learning to code
-- I’m currently learning **Java**.  
-- 🎯 My goal is to become a software developer.
+- I’m currently learning **Java**.
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
